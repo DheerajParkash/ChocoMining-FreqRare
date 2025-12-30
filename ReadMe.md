@@ -81,7 +81,7 @@ The `FreqRareConstraint` implementation follows **Algorithm 1** from Belaid & La
 * Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ChocoMining-FreqRare.git
+git clone https://github.com/DheerajParkash/ChocoMining-FreqRare.git
 cd ChocoMining-FreqRare
 ```
 
