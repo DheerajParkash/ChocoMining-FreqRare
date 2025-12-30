@@ -1,0 +1,10 @@
+digraph {
+  subgraph cluster_legend {
+    label = "Legend";
+    style = bold;
+    color = black;
+    
+    Node1 [label="Constraint", style=filled, fillcolor="#F8CECC"];
+    Node2 [label="Problem", style=filled, fillcolor="#DAE8FC"];
+  }
+}
